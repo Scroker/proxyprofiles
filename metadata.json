@@ -1,9 +1,9 @@
 {
-  "name": "Proxy Profiles",
+  "name": "Proxies",
   "description": "Swich easily between several proxy profiles.",
   "version": 5,
-  "uuid": "proxyprofiles@massamany.github.com",
-  "url": "https://github.com/massamany/proxyprofiles",
+  "uuid": "proxies@dramisgiorgio@outlook.com",
+  "url": "https://github.com/scroker/proxyprofiles",
   "gettext-domain": "proxyprofiles",
   "shell-version": ["48"]
 }
